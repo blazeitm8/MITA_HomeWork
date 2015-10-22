@@ -1,0 +1,8 @@
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\bin\Debug\View.exe.config
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\bin\Debug\View.exe
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\bin\Debug\View.pdb
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\obj\Debug\View.exe
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\obj\Debug\View.pdb
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\bin\Debug\Model.dll
+C:\Users\mello\Desktop\C#\Desktop\MITA_HomeWork-1\View\bin\Debug\Model.pdb
